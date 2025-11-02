@@ -113,7 +113,7 @@ It includes:
 ## 📊 Power BI Dashboard Visuals
 
 ### 🧭 Dashboard Overview
-![Sales Trends](sales_trends.png.png)
+![Sales Trends](images/sales_trends.png.png)
 
 ### 🌍 Customer Distribution
 ![Customer Distribution](customer_distribution.png.png)
