@@ -110,7 +110,39 @@ It includes:
 - Category-wise revenue breakdowns  
 - Employee and supplier distributions  
 
-*(Dashboard visuals can be found in the `/images` folder.)*
+## 📊 Power BI Dashboard Visuals
+
+### 🧭 Dashboard Overview
+![Sales Trends](sales_trends.png.png)
+
+### 🌍 Customer Distribution
+![Customer Distribution](customer_distribution.png.png)
+
+### 🏷️ Category Sales Performance
+![Category Sales](category_sales.png.png)
+
+### 🚚 Shipping Performance
+![Shipping Performance](shipping_performance.png.png)
+
+### 👥 Employee Distribution
+![Employee Distribution](employee_distribution.png.png)
+
+---
+
+## 📈 Excel EDA Visuals
+
+### 💰 Customer Spend Analysis
+![Customer Spend](eda_customer_spend.png)
+
+### 📦 Order Distribution Insights
+![Order Distribution](eda_order_distribution.png)
+
+### 📉 Price vs Sales Relationship
+![Price vs Sales](eda_price_vs_sales.png)
+
+### 🔗 Product Correlations
+![Correlations](eda_correlations.png)
+
 
 ---
 
